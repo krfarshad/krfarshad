@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Farshad Karimi</h1>
-<h3 align="center">Senior Frontend Developer</h3>
+<h3 align="center">Senior Fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krfarshad" alt="krfarshad" /></a> </p>
 
-- 🔭 I’m currently working as **freelancer**
 
-- 🌱 I’m currently learning **Nodejs and Express**
-
-- 💬 Ask me about **React, Next.js, Vue and Nuxt**
+- 💬 Ask me about **React, Next.js, Vue and Nuxt , Nest and Express**
 
 - 📫 How to reach me **krfarshad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/farshadkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farshadkr" height="30" width="40" /></a>
-<a href="https://instagram.com/https://github.com/krfarshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/krfarshad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/farshadkarimi18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/krfarshad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
